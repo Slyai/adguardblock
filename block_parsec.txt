@@ -11,3 +11,5 @@ public.parsec.app
 stun.parsec.app
 1jtxjeji6cgx7pvo0yg1xwvtwyj.team-ws.parsec.app
 2ipb96cxazezg6fjtxyxewqqsli.team-ws.parsec.app
+*.team-ws.parsec.app
+*.parsec.app
